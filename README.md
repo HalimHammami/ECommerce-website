@@ -21,3 +21,7 @@
    7. create route for api/products
    8. return products
    9. run npm start
+8. manage state by reducer hook
+9. define reducer
+10. update fetch data
+11. get state from usereducer
