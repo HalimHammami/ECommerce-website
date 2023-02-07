@@ -41,3 +41,8 @@
     2. use spinner component
     3. create message component
     4. create utils.js to define getError function
+13. implement add to card
+    1. create react context
+    2. define reducer
+    3. create store provider
+    4. implement add to card button click handler
