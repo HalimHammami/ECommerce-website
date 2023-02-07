@@ -36,3 +36,8 @@
     1. create the descrption card component
     2. conditionel rendering to the statue of the product
     3. change the product descption name using react helmet async
+12. create loading and message components
+    1. create loading component
+    2. use spinner component
+    3. create message component
+    4. create utils.js to define getError function
