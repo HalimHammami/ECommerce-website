@@ -22,6 +22,9 @@
    8. return products
    9. run npm start
 8. manage state by reducer hook
-9. define reducer
-10. update fetch data
-11. get state from usereducer
+   1. define reducer
+   2. update fetch data
+   3. get state from usereducer
+9. add bootstrap UI framework
+   1. npm install react-bootstrap bootstrap
+   2. update app.js
