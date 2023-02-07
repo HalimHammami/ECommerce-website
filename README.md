@@ -32,3 +32,7 @@
     1. create rating component
     2. create product component
     3. use rating component in product component
+11. create the description product page
+    1. create the descrption card component
+    2. conditionel rendering to the statue of the product
+    3. change the product descption name using react helmet async
