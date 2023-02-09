@@ -50,3 +50,7 @@
     1. create columns
     2. display item list
     3. create action colummn
+15. complete cart screen
+    1. click handler for inc/des item
+    2. click handler for remove item
+    3. click handler for check out
