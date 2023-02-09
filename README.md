@@ -54,3 +54,7 @@
     1. click handler for inc/des item
     2. click handler for remove item
     3. click handler for check out
+16. create signin screen
+    1. create signin form
+    2. add email and password
+    3. add signin button
