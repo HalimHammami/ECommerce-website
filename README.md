@@ -76,3 +76,7 @@
     1. handle submit screen
     2. save token in store and local storage
     3. show user name inheader
+21. create shipping screen
+    1. create form inputs
+    2. handle save shipping
+    3. add checkout wizard bar
