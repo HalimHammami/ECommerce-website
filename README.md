@@ -58,3 +58,9 @@
     1. create signin form
     2. add email and password
     3. add signin button
+17. seed sample product
+    1. create product model
+    2. create user model
+    3. create seed route
+    4. use routes in server.js
+    5. seed sample product
