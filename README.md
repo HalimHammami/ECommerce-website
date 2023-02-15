@@ -68,3 +68,11 @@
     1. create user model
     2. seed sample users
     3. create user routes
+19. create user signin backend api
+    1. create signin api
+    2. npm install jsonwebtoken
+    3. define generate token
+20. complete signin screen
+    1. handle submit screen
+    2. save token in store and local storage
+    3. show user name inheader
